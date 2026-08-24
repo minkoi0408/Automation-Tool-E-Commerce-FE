@@ -1,5 +1,12 @@
 # E-Commerce Scraper & AI Analysis Platform - Frontend
 
+## Video Demonstration / Video Demo (2 - 3 phút)
+
+[![Xem Video Demo](https://img.youtube.com/vi/TibKyugU5Xc/maxresdefault.jpg)](https://www.youtube.com/watch?v=TibKyugU5Xc)
+
+- **Direct YouTube Link:** [https://www.youtube.com/watch?v=TibKyugU5Xc](https://www.youtube.com/watch?v=TibKyugU5Xc)
+
+
 ---
 
 ## TABLE OF CONTENTS / MỤC LỤC
